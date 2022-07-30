@@ -37,15 +37,15 @@ Supervised learning (SL) is the machine learning task of learning a function tha
 
 Then the supervised learning analysis is carried out with several algorithms as follows:
 
-Preprocessing: Able to do dataset preprocessing before doing the modeling process (split data, normalization, encoding, etc.)
-Logistic Regression: Implement Logistic Regression and determine the right hyperparameters with Scikit-Learn
-SVM: Implements Logistic Regression and determines the right hyperparameters with Scikit-Learn
-Decision Tree: Implement Decision Tree and determine the right hyperparameters with Scikit-Learn
-Random Forest : Implement Decision Tree and determine the right hyperparameter with Scikit-Learn
-K-Nearest Neighbor : Implements KNN and determines the right hyperparameter with Scikit-Learn
-Cross Validation: Implementing Cross Validation with Scikit-Learn
-Grid Search : Implementing Grid Search with Scikit-Learn
-Model Inference: Trying out a model that has been created with new data
+- Preprocessing: Able to do dataset preprocessing before doing the modeling process (split data, normalization, encoding, etc.)
+- Logistic Regression: Implement Logistic Regression and determine the right hyperparameters with Scikit-Learn
+- SVM: Implements Logistic Regression and determines the right hyperparameters with Scikit-Learn
+- Decision Tree: Implement Decision Tree and determine the right hyperparameters with Scikit-Learn
+- Random Forest : Implement Decision Tree and determine the right hyperparameter with Scikit-Learn
+- K-Nearest Neighbor : Implements KNN and determines the right hyperparameter with Scikit-Learn
+- Cross Validation: Implementing Cross Validation with Scikit-Learn
+- Grid Search : Implementing Grid Search with Scikit-Learn
+- Model Inference: Trying out a model that has been created with new data
 
 ## Reference
 - https://www.techtarget.com/searchenterpriseai/definition/supervised-learning
